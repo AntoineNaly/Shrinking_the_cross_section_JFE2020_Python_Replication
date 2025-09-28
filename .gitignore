@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.build/
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Envs
+.env
+.venv/
+venv/
+*.code-workspace
+
+# Data: keep local only
+/Data/
+/results_export/
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
