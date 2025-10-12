@@ -1,0 +1,12 @@
+| Portfolio | b | t_stat |
+| --- | --- | --- |
+| r_indrrevlv | -0.88 | 3.53 |
+| r_indmomrev | 0.48 | 1.94 |
+| r_indrrev | -0.43 | 1.70 |
+| r_season | 0.32 | 1.29 |
+| r_sue | 0.32 | 1.29 |
+| r_valprof | 0.30 | 1.18 |
+| r_rome | 0.30 | 1.18 |
+| r_inv | -0.24 | 0.95 |
+| r_roe | 0.24 | 0.95 |
+| r_ciss | -0.24 | 0.95 |
