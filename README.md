@@ -25,7 +25,7 @@ python make_readme_artifacts.py
 
 ---
 
-## 📊 Replication Figures
+## Replication Figures
 
 All figures are stored in the local `/paper_figures/` directory.
 
@@ -43,7 +43,7 @@ All figures are stored in the local `/paper_figures/` directory.
 
 ---
 
-## 📘 Tables
+## Tables
 
 ### **Table 1 – Largest SDF factors (50 anomaly portfolios)**  
 _Coefficient estimates and absolute t-statistics at the optimal prior root expected SR² (cross-validated)._
@@ -92,7 +92,7 @@ _MVE portfolio’s annualized OOS α in the withheld sample (%)._
 
 ---
 
-## ⚙️ Setup
+## Setup
 
 Clone the repository and install dependencies:
 
@@ -112,7 +112,7 @@ Single charts will appear in `/results_export/`, combined charts in `/paper_figu
 
 ---
 
-## 🧠 Notes
+## Notes
 
 - Exact replication of Figures 1 to 4, and Table 1 from the original paper.  
 - Table 4 replication exact for CAPM benchmark, close for FF6 and sparse variants.  
